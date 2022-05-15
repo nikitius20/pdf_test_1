@@ -1,2 +1,5 @@
 # pdf_test_1
-Trying 
+
+Trying
+
+npm run dev - to run the thing
